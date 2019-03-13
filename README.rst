@@ -1,4 +1,4 @@
-Django-CRM
+Trackbus-CRM
 ==========
 
 Django CRM is opensourse CRM developed on django framework. It has all the basic features of CRM to start with. We welcome code contributions and feature requests via github.
